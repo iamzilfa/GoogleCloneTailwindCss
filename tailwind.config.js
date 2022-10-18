@@ -13,7 +13,8 @@ module.exports = {
         "grayLight" : "#f8f9fa",
         "blackLight" : "#3c4043",
         "grayMobile": "#70757a",
-        "grayApp": "#5f6368"
+        "grayApp": "#5f6368",
+        "grayButton" : "#dadce0"
       }
     },
   },
